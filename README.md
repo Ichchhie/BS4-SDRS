@@ -1,1 +1,3 @@
-# BS4-SDRS
+# Energy Data Commons (Service-Oriented System)
+This project was a part of the course Service Oriented Architecture and the goal was to tackle Energy Data Commons as a challenge provided by [Waag Future Lab](https://waag.org/en/).  This project tries to build a system fostering energy independence in local communities through knowledge sharing, electricity trading, consumption analysis, supporting communities & reducing reliance on the national grid. I particularly contributed focusing on the **Business Service: Statistical Data Repository System** to provide anonymized datasets to the researchers to understand the energy usage and trading patterns of the community. They can develop important data-driven insights that can be useful also to the government in encouraging or supporting other local communities to practice similar models to contribute to the sustainable ecosystem. 
+
